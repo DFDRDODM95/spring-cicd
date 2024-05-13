@@ -4,6 +4,7 @@ server:
 spring:
   application:
     name: develop server
+
   config:
-    active:
+    activate:
       on-profile: dev

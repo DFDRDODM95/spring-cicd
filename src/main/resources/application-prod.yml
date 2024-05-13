@@ -5,5 +5,5 @@ spring:
   application:
     name: production server
   config:
-    active:
+    activate:
       on-profile: prod
